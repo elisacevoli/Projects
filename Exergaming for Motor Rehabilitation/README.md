@@ -22,9 +22,6 @@ This project develops exergames for motor rehabilitation featuring:
 - **INVERT_IMG.m**: Image preprocessing
 
 ### Folders
-- **E1/**: Acquired frames and clinical reports from balance improvement experiments
-- **E2/**: Acquired frames and clinical reports from motor control enhancement experiments  
-- **E3/**: Acquired frames and clinical reports from lower-limb strengthening experiments
 - **feedback/**: Additional feedback modules and resources
 
 ### Demo & Assets
