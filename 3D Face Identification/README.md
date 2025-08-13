@@ -40,7 +40,7 @@ Contactless patient registration system that leverages 3D facial recognition to 
 - `ml_classification_pipeline.py` - ML training and evaluation
 
 ### Unity Demo
-- `DemoUnity.mp4` - Interactive 3D visualization prototype
+- `DemoUnity.mp4` - Interactive 3D visualization prototype: https://youtu.be/uP7b4-EjjJY
 
 ## Technologies
 
