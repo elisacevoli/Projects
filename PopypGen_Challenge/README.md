@@ -36,7 +36,7 @@ Automated polyp detection system for colorectal cancer prevention using deep lea
 - `config.py` - Configuration parameters
 - `TRAINING.ipynb` - Model training
 - `TESTING.ipynb` - Evaluation and testing
-- 'EIM_project.pdf' - Written report
+- `EIM_project.pdf` - Written report
 
 ## Usage
 
